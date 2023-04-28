@@ -1,10 +1,16 @@
-## 10am Researching website designs
+## Research & Planning Log
 
-## 10:20am Researching help chat bots
+## 04/28/2023
 
-## 10:20am Researching Paypal sandbox
+### 10am Researching website designs
 
-## 1:12pm Still reading Paypal API
+### 10:20am Researching help chat bots
 
-## 2:30pm Looking into chat bot tools
+### 10:20am Researching Paypal sandbox
+
+### 1:12pm Still reading Paypal API
+
+### 2:30pm Looking into chat bot tools
+
+### 3:30pm Drawing out my website structure
 
