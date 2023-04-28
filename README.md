@@ -16,4 +16,4 @@
 
 ### 4:11pm Olark and LiveChat API
 
-###
+### 4:30pm Looking for product pictures
