@@ -14,3 +14,6 @@
 
 ### 3:30pm Drawing out my website structure
 
+### 4:11pm Olark and LiveChat API
+
+###
