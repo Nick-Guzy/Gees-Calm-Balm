@@ -2,4 +2,4 @@
 
 ## 10:20am Researching help chat bots
 
-## Researching Paypal sandbox
+## 10:20am Researching Paypal sandbox
