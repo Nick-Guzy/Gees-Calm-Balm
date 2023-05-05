@@ -46,3 +46,5 @@
 ### 2:30pm Researching product page lay out
 
 ### 3:30pm Planning how to style each product category page.
+
+### 4:10pm Building out product components
