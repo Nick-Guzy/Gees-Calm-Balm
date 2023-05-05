@@ -1,3 +1,4 @@
+
 ## Research & Planning Log
 
 ## 04/28/2023
@@ -18,7 +19,22 @@
 
 ### 4:30pm Looking for product pictures
 
+## 05/03/2023
+
+### 6:30pm Scaffold out project with create-react-app
+
+### 7:30pm Creating product components
+
+### 8:30pm Implementing nav bar
+
+### 9:30pm Working on styling nav bar
+
+## 05/04/2023
+
+### 2:30pm-5:30pm Creating footer and about us, contact us, and setting up routing
+
 ## 05/05/2023
 
 ### 11:10am Figuring out how to style a footer component to be at the bottom of the page
 
+### 11:50am Writing contact us component
