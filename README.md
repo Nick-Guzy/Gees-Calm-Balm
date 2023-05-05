@@ -38,3 +38,5 @@
 ### 11:10am Figuring out how to style a footer component to be at the bottom of the page
 
 ### 11:50am Writing contact us component
+
+### 12:45pm Contact us made
