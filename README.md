@@ -42,3 +42,7 @@
 ### 12:45pm Contact us made
 
 ### 1:25pm FAQ section being built out
+
+### 2:30pm Researching product page lay out
+
+### 3:30pm Planning how to style each product category page.
