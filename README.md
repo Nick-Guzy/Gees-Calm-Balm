@@ -17,3 +17,8 @@
 ### 4:11pm Olark and LiveChat API
 
 ### 4:30pm Looking for product pictures
+
+## 05/05/2023
+
+### 11:10am Figuring out how to style a footer component to be at the bottom of the page
+
